@@ -20,7 +20,7 @@ import com.senai.infob.teste.services.UsuarioService;
 
 
 @RestController
-@RequestMapping("/Produto")
+@RequestMapping("/Usuário")
 public class UsuarioController {
     
     @Autowired
